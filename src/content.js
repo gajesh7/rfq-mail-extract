@@ -6,3 +6,4 @@ window.addEventListener("message", (event) => {
     console.log("Captured active email DOM payload.");
   }
 });
+

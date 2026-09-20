@@ -146,3 +146,4 @@ export default function StickyBottomBar({ rfqData, onCopyRFQ, onSendToTool }) {
     </>
   );
 }
+

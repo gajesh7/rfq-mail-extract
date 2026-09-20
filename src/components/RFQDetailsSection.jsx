@@ -112,3 +112,4 @@ export default function RFQDetailsSection({ rfq, onUpdateRFQ }) {
     </div>
   );
 }
+

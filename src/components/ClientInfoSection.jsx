@@ -88,3 +88,4 @@ export default function ClientInfoSection({ client, onUpdateClient }) {
     </div>
   );
 }
+

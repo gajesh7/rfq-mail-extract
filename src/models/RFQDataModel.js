@@ -48,3 +48,4 @@ export const INITIAL_RFQ_DATA = {
     ready_to_send: true
   }
 };
+

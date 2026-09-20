@@ -29,3 +29,4 @@ export function parseOpenedEmail(platform = 'simulated') {
   // Returns normalized canonical RFQ object
   return { ...INITIAL_RFQ_DATA };
 }
+

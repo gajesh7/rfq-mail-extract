@@ -6,3 +6,4 @@ chrome.sidePanel
 chrome.runtime.onInstalled.addListener(() => {
   console.log("RFQ Bridge Extension v1.0 Installed Successfully.");
 });
+
